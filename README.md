@@ -1,0 +1,2 @@
+# PassArrayString
+Truyen data(master)
